@@ -3,11 +3,9 @@ Dagster provides global lineage across tools, allowing data engineers to co-ordi
 
 A common problem when first setting up this type of project is not having the correct lineage: 
 
-![](img/mismatched_lineage.png)
+![](imgs/mismatched_lineage.png)
 
-This project shows why this problem occurs and how to fix it: 
-
-![](img/correct_lineage.png)
+This project shows why this problem occurs and how to fix it.
 
 ## Get started
 
